@@ -50,7 +50,7 @@ main.container p {
 .brand h1 {
   font-family: "Pacifico", cursive;
   color: #ff69b4;
-  margin-left: -300px;
+  margin-left: 0px;
 }
 
 .subtitle {
