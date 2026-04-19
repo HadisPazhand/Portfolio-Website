@@ -50,14 +50,14 @@ main.container p {
 .brand h1 {
   font-family: "Pacifico", cursive;
   color: #ff69b4;
-  margin-left: 0px;
+  margin-left: 0;
 }
 
 .subtitle {
   font-style: italic;
   color: #ffb6c1;
   font-size: 0.9rem;
-  margin-left: -300px;
+  margin-left: 0;
 }
 
 .nav .nav-link {
